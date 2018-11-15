@@ -1,3 +1,10 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [BootstrapChartDataItem.cs](./CS/App_Code/BootstrapChartDataItem.cs) (VB: [BootstrapChartDataItem.vb](./VB/App_Code/BootstrapChartDataItem.vb))
+* [Default.aspx](./CS/Default.aspx) (VB: [Default.aspx.vb](./VB/Default.aspx.vb))
+* [Default.aspx.cs](./CS/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/Default.aspx.vb))
+<!-- default file list end -->
 # BootstrapChart - How to bind to filtered or sorted ASPxGridView data on the server side at runtime
 
 
